@@ -2,7 +2,7 @@ Ficheiro BC:
 
 %regras base de conhecimento
 
-if 'Fastfood' and 'Carnivoro/carne)' and 'Takeaway' and 'Barato' then 'perfil1'
+if 'Fastfood' and 'Carnivoro(carne)' and 'Takeaway' and 'Barato' then 'perfil1'
 
 if 'Fastfood' and 'Carnivoro(carne)' and 'HomeDelivery' and 'Barato' then 'perfil2'
 
