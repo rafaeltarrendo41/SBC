@@ -151,8 +151,51 @@ public class Inicial extends javax.swing.JFrame {
     }// </editor-fold>//GEN-END:initComponents
 
     private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
-       dispose();
-        Tipo j = new Tipo();
+       String Resposta = "";
+       String Escolha = jComboBox1.getSelectedItem().toString();
+       if(Escolha == "FastFood"){
+           String tipo = "'FastFood'";
+           Resposta="assert(fact("+tipo+")),";
+           System.out.println(Resposta);
+           
+       } else if (Escolha == "Pizza"){
+           String tipo = "'Pizza'";
+           Resposta="assert(fact("+tipo+")),";
+           System.out.println(Resposta);
+           
+       }  else if (Escolha == "Comida Portuguesa"){
+           String tipo = "'ComidaPortuguesa'";
+           Resposta="assert(fact("+tipo+")),";
+           System.out.println(Resposta);
+           
+       }  else if (Escolha == "Sushi"){
+           String tipo = "'Sushi'";
+           Resposta="assert(fact("+tipo+")),";
+           System.out.println(Resposta);
+           
+       }  else if (Escolha == "Chinês"){
+           String tipo = "'Chines'";
+           Resposta="assert(fact("+tipo+")),";
+           System.out.println(Resposta);
+           
+       }   else if (Escolha == "Vegetariano"){
+           String tipo = "'Vegetariano'";
+           Resposta="assert(fact("+tipo+")),";
+           System.out.println(Resposta);
+           
+       }   else if (Escolha == "Indiano"){
+           String tipo = "'Indiano'";
+           Resposta="assert(fact("+tipo+")),";
+           System.out.println(Resposta);
+           
+       }else if (Escolha == "Italiano"){
+           String tipo = "'Italiano'";
+           Resposta="assert(fact("+tipo+")),";
+           System.out.println(Resposta);
+       }
+        
+        dispose();
+        Tipo j = new Tipo(Resposta);
         j.setVisible(true);
     }//GEN-LAST:event_jButton1ActionPerformed
 
