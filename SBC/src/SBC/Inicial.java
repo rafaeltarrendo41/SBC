@@ -50,6 +50,11 @@ public class Inicial extends javax.swing.JFrame {
 
         jComboBox1.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Fast Food", "Pizza", "Comida Portuguesa", "Sushi", "Chinês", "Vegetariano", "Indiano", "Italiano" }));
         jComboBox1.setToolTipText("");
+        jComboBox1.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jComboBox1ActionPerformed(evt);
+            }
+        });
 
         jButton1.setBackground(new java.awt.Color(111, 63, 63));
         jButton1.setForeground(new java.awt.Color(255, 255, 255));
@@ -103,8 +108,6 @@ public class Inicial extends javax.swing.JFrame {
 
         jPanel2.setBackground(new java.awt.Color(255, 255, 255));
 
-        jLabel2.setIcon(new javax.swing.ImageIcon("C:\\Users\\Asus\\Documents\\GitHub\\SBC\\imagens1\\Inicial.png")); // NOI18N
-
         javax.swing.GroupLayout jPanel2Layout = new javax.swing.GroupLayout(jPanel2);
         jPanel2.setLayout(jPanel2Layout);
         jPanel2Layout.setHorizontalGroup(
@@ -124,8 +127,6 @@ public class Inicial extends javax.swing.JFrame {
                     .addComponent(jLabel2)
                     .addComponent(jLabel6)))
         );
-
-        jLabel7.setIcon(new javax.swing.ImageIcon("C:\\Users\\Asus\\Documents\\GitHub\\SBC\\imagens1\\Webp.net-resizeimage (1).png")); // NOI18N
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
         getContentPane().setLayout(layout);
@@ -195,9 +196,13 @@ public class Inicial extends javax.swing.JFrame {
        }
         
         dispose();
-        Tipo j = new Tipo(Resposta);
-        j.setVisible(true);
+       Tipo t = new Tipo(Resposta);
+       t.setVisible(true);
     }//GEN-LAST:event_jButton1ActionPerformed
+
+    private void jComboBox1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jComboBox1ActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jComboBox1ActionPerformed
 
     /**
      * @param args the command line arguments
