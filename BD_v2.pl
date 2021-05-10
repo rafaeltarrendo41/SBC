@@ -6,109 +6,109 @@
 solucao('perfil1',[ [' \n McDonalds
                        \n Fast Food
                        \n €
-                       \n Big Mac (pão, hamburguer, molho, alface, pepino, cebola desidratada, queijo cheddar) - 5.90€
+                       \n Big Mac (Pao, hamburguer, Molho, Alface, Pepino, Cebola Desidratada, Queijo Cheddar) - 5.90 euros
                        \n Take Away
-                       \n 10-20min
-                       \n 10:00 - 02:00
+                       \n 10-20 min.
+                       \n 10:00h - 02:00h
                        \n Sim
                        \n 4.1'],
                     [' \n McDonalds
                        \n Fast Food
                        \n €
-                       \n CBO (pão, chicken mythic, molho, alface, cebola frita, queijo cheddar, bacon) - 6,30€
+                       \n CBO (Pao, Chicken Mythic, Molho, Alface, Cebola Frita, Queijo Cheddar, Bacon) - 6,30 euros
                        \n Take Away
-                       \n 10-20min
-                       \n 10:00 - 02:00
+                       \n 10-20 min.
+                       \n 10:00h - 02:00h
                        \n Sim
                        \n 4.1'],
                     [' \n McDonalds
                        \n Fast Food
                        \n €
-                       \n Wrap Chicken (frango panado, cebola frita, alface e maionese) - 2,00€
+                       \n Wrap Chicken (Frango Panado, Cebola Frita, Alface e Maionese) - 2,00 euros
                        \n Take Away
-                       \n 10-20min
-                       \n 10:00 - 02:00
+                       \n 10-20 min.
+                       \n 10:00h - 02:00h
                        \n Sim
                        \n 4.1'],
                     [' \n McDonalds
                        \n Fast Food
                        \n €
-                       \n Happy Meal (pão, hambúguer, queijo cheddar, pickles, cebola, ketchup e mostarda) -  3,90€ 
+                       \n Happy Meal (Pão, Hambúguer, Queijo Cheddar, Pickles, Cebola, Ketchup e Mostarda) -  3,90 euros
                        \n Take Away
                        \n 10-20min
-                       \n 10:00 - 02:00
+                       \n 10:00h - 02:00h
                        \n Sim
                        \n 4.1'],
                     [' \n KFC
                        \n Fast Food
                        \n €
-                       \n Menu Twister (frango marinado e panado em tortilha de milho, alface, tomate e maionese apimentada) -  7,25€ 
+                       \n Menu Twister (Frango Marinado e Panado em Tortilha de Milho, Alface, Tomate e Maionese Apimentada) -  7,25 euros 
                        \n Take Away
-                       \n 20-30min
-                       \n 12:00 - 22:00
+                       \n 20-30 min.
+                       \n 12:00h - 22:00h
                        \n Sim
                        \n 3.9'],
                     [' \n KFC
                        \n Fast Food
                        \n €
-                       \n Hot Wings (8 asas de franfo marinadas e panadas, picante) -  6,95€ 
+                       \n Hot Wings (8 Asas de Franfo Marinadas e Panadas, Picante) -  6,95 euros
                        \n Take Away
-                       \n 20-30min
-                       \n 12:00 - 22:00
+                       \n 20-30 min.
+                       \n 12:00h - 22:00h
                        \n Sim
                        \n 3.9'],
                     [' \n KFC
                        \n Fast Food
                        \n €
-                       \n Hamburguer Original (frango marinado e panado, alface, tomate, queijo, bacon e molho de queijo cheddar) -  5,10€ 
+                       \n Hamburguer Original (Frango Marinado e Panado, Alface, Tomate, Queijo, Bacon e Molho de Queijo Cheddar) -  5,10 euros
                        \n Take Away
-                       \n 20-30min
-                       \n 12:00 - 22:00
+                       \n 20-30 min.
+                       \n 12:00h - 22:00h
                        \n Sim
                        \n 3.9'],
                     [' \n KFC
                        \n Fast Food
                        \n € 
-                       \n BoxMaster Receita Original (frango marinado e panado em tortilha de milho, alface, tomate, batata crocante, queijo e maionese apimentada) - 5,70€ 
+                       \n BoxMaster Receita Original (Frango Marinado e Panado em Tortilha de Milho, Alface, Tomate, Batata Crocante, Queijo e Maionese Apimentada) - 5,70 euros
                        \n Take Away
-                       \n 20-30min
-                       \n 12:00 - 22:00
+                       \n 20-30 min.
+                       \n 12:00h - 22:00h
                        \n Sim
                        \n 3.9'],
-                    [' \n Cachorrão
+                    [' \n Cachorrao
                        \n Fast Food
                        \n €
-                       \n Menu Soft (arroz, batata, ovo, alface, tomate, bife (frango ou perú)) - 3,80€
+                       \n Menu Soft (Arroz, Batata, Ovo, Alface, Tomate, Bife (Frango ou Peru)) - 3,80 euros
                        \n Take Away
-                       \n 20-30min
-                       \n 11:00 - 01:00
+                       \n 20-30 min.
+                       \n 11:00h - 01:00h
                        \n Nenhuma
                        \n 4.2'],
-                    [' \n Cachorrão
+                    [' \n Cachorrao
                        \n Fast Food
                        \n €
-                       \n Menu Cachorrão (pão de cachorro, queijo, fiambre, salsicha e molho de cachorro) - 6,45€
+                       \n Menu Cachorrao (Pao de Cachorro, Queijo, Fiambre, Salsicha e Molho de Cachorro) - 6,45 euros
                        \n Take Away
-                       \n 20-30min
-                       \n 11:00 - 01:00
+                       \n 20-30 min.
+                       \n 11:00h - 01:00h
                        \n Nenhuma
                        \n 4.2'],
-                    [' \n Cachorrão
+                    [' \n Cachorrao
                        \n Fast Food
                        \n €
-                       \n Menu Hambúguer L (pão de hambúrguer, hambúrguer, queijo cheddar, alface, tomate, fiambre e molho de cachorro.) - 6,45€
+                       \n Menu Hambúguer L (Pao de Hamburguer, Hamburguer, Queijo Cheddar, Alface, Tomate, Fiambre e Molho de Cachorro.) - 6,45 euros
                        \n Take Away
-                       \n 20-30min
-                       \n 11:00 - 01:00
+                       \n 20-30 min.
+                       \n 11:00h - 01:00h
                        \n Nenhuma
                        \n 4.2'],
-                    [' \n Cachorrão
+                    [' \n Cachorrao
                        \n Fast Food
                        \n €
-                       \n Menu Francesinha Especial (pão de forma, queijo, fiambre, chourição, salsicha e molho especial) - 9,40€ 
+                       \n Menu Francesinha Especial (Pao de Forma, Queijo, Fiambre, Chouriçao, Salsicha e Molho Especial) - 9,40 euros
                        \n Take Away
-                       \n 20-30min
-                       \n 11:00 - 01:00
+                       \n 20-30 min.
+                       \n 11:00h - 01:00h
                        \n Nenhuma
                        \n 4.2']]).
 
@@ -117,61 +117,61 @@ solucao('perfil1',[ [' \n McDonalds
 solucao('perfil2',[ [' \n McDonalds
                        \n Fast Food
                        \n €
-                       \n Big Mac (pão, hamburguer, molho, alface, pepino, cebola desidratada, queijo cheddar) - 5.90€
+                       \n Big Mac (Pao, Hamburguer, Molho, Alface, Pepino, Cebola Desidratada, Queijo Cheddar) - 5.90 euros
                        \n Home Delivery
-                       \n 10-20min
-                       \n 10:00 - 02:00
+                       \n 10-20 min.
+                       \n 10:00h - 02:00h
                        \n Sim
                        \n 4.1'],
                     [' \n McDonalds
                        \n Fast Food
                        \n €
-                       \n CBO (pão, chicken mythic, molho, alface, cebola frita, queijo cheddar, bacon) - 6,30€
+                       \n CBO (Pao, Chicken Mythic, Molho, Alface, Cebola Frita, Queijo Cheddar, Bacon) - 6,30 euros
                        \n Home Delivery
-                       \n 10-20min
-                       \n 10:00 - 02:00
+                       \n 10-20 min.
+                       \n 10:00h - 02:00h
                        \n Sim
                        \n 4.1'],
                     [' \n McDonalds
                        \n Fast Food
                        \n €
-                       \n Wrap Chicken (frango panado, cebola frita, alface e maionese) - 2,00€
+                       \n Wrap Chicken (Frango Panado, Cebola Frita, Alface e Maionese) - 2,00 euros
                        \n Home Delivery
-                       \n 10-20min
-                       \n 10:00 - 02:00
+                       \n 10-20 min.
+                       \n 10:00h - 02:00h
                        \n Sim
                        \n 4.1'],
                     [' \n McDonalds
                        \n Fast Food
                        \n €
-                       \n Happy Meal (pão, hambúguer, queijo cheddar, pickles, cebola, ketchup e mostarda) -  3,90€ 
+                       \n Happy Meal (Pao, Hambúguer, Queijo Cheddar, Pickles, Cebola, Ketchup e Mostarda) -  3,90 euros
                        \n Home Delivery
-                       \n 10-20min
-                       \n 10:00 - 02:00
+                       \n 10-20 min.
+                       \n 10:00h - 02:00h
                        \n Sim
                        \n 4.1'],
                     [' \n KFC
                        \n Fast Food
                        \n €
-                       \n Menu Twister (frango marinado e panado em tortilha de milho, alface, tomate e maionese apimentada) -  7,25€  
+                       \n Menu Twister (Frango Marinado e Panado em Tortilha de Milho, Alface, Tomate e Maionese Apimentada) -  7,25 euros  
                        \n Home Delivery
-                       \n 20-30min
-                       \n 12:00 - 22:00
+                       \n 20-30 min.
+                       \n 12:00h - 22:00h
                        \n Nenhuma
                        \n 3.9'],
                     [' \n KFC
                        \n Fast Food
                        \n €
-                       \n Hot Wings (8 asas de franfo marinadas e panadas, picante) -  6,95€ 
+                       \n Hot Wings (8 Asas de Franfo Marinadas e Panadas, Picante) -  6,95 euros
                        \n Home Delivery
-                       \n 20-30min
-                       \n 12:00 - 22:00
+                       \n 20-30 min.
+                       \n 12:00h - 22:00h
                        \n Nenhuma
                        \n 3.9'],
                     [' \n KFC
                        \n Fast Food
                        \n €
-                       \n Hamburguer Original (frango marinado e panado, alface, tomate, queijo, bacon e molho de queijo cheddar) -  5,10€ 
+                       \n Hamburguer Original (Frango Marinado e Panado, Alface, Tomate, Queijo, Bacon e Molho de Queijo Cheddar) -  5,10€ 
                        \n Home Delivery
                        \n 20-30min
                        \n 12:00 - 22:00
@@ -180,46 +180,46 @@ solucao('perfil2',[ [' \n McDonalds
                     [' \n KFC
                        \n Fast Food
                        \n € 
-                       \n BoxMaster Receita Original (frango marinado e panado em tortilha de milho, alface, tomate, batata crocante, queijo e maionese apimentada) - 5,70€ 
+                       \n BoxMaster Receita Original (Frango Marinado e Panado em Tortilha de Milho, Alface, Tomate, Batata Crocante, Queijo e Maionese Apimentada) - 5,70 euros 
                        \n Home Delivery
-                       \n 20-30min
-                       \n 12:00 - 22:00
+                       \n 20-30 min.
+                       \n 12:00h - 22:00h
                        \n Nenhuma
                        \n 3.9'],
-                    [' \n Cachorrão
+                    [' \n Cachorrao
                        \n Fast Food
                        \n €
-                       \n Menu Soft (arroz, batata, ovo, alface, tomate, bife (frango ou perú)) - 3,80€
+                       \n Menu Soft (Arroz, Batata, Ovo, Alface, Tomate, Bife (Frango ou Peru)) - 3,80 euros
                        \n Home Delivery
-                       \n 20-30min
-                       \n 11:00 - 01:00
+                       \n 20-30 min.
+                       \n 11:00h - 01:00h
                        \n Nenhuma
                        \n 4.2'],
-                    [' \n Cachorrão
+                    [' \n Cachorrao
                        \n Fast Food
                        \n €
-                       \n Menu Cachorrão (pão de cachorro, queijo, fiambre, salsicha e molho de cachorro) - 6,45€ 
+                       \n Menu Cachorrão (Pao de Cachorro, Queijo, Fiambre, Salsicha e Molho de Cachorro) - 6,45 euros
                        \n Home Delivery
-                       \n 20-30min
-                       \n 11:00 - 01:00
+                       \n 20-30 min.
+                       \n 11:00h - 01:00h
                        \n Nenhuma
                        \n 4.2'],
-                    [' \n Cachorrão
+                    [' \n Cachorrao
                        \n Fast Food
                        \n €
-                       \n Menu Hambúguer L (pão de hambúrguer, hambúrguer, queijo cheddar, alface, tomate, fiambre e molho de cachorro.) - 6,45€
+                       \n Menu Hambuguer L (Pao de Hamburguer, Hamburguer, Queijo Cheddar, Alface, Tomate, Fiambre e Molho de Cachorro) - 6,45 euros
                        \n Home Delivery
-                       \n 20-30min
-                       \n 11:00 - 01:00
+                       \n 20-30 min.
+                       \n 11:00h - 01:00h
                        \n Nenhuma
                        \n 4.2'],
-                    [' \n Cachorrão
+                    [' \n Cachorrao
                        \n Fast Food
                        \n €
-                       \n Menu Francesinha Especial (pão de forma, queijo, fiambre, chourição, salsicha e molho especial) - 9,40€ 
+                       \n Menu Francesinha Especial (Pao de Forma, Queijo, Fiambre, Chouriçao, Salsicha e Molho Especial) - 9,40 euros
                        \n Home Delivery
-                       \n 20-30min
-                       \n 11:00 - 01:00
+                       \n 20-30 min.
+                       \n 11:00h - 01:00h
                        \n Nenhuma
                        \n 4.2']]).
 
@@ -227,37 +227,37 @@ solucao('perfil2',[ [' \n McDonalds
 solucao('perfil3',[ [' \n McDonalds
                        \n Fast Food
                        \n €
-                       \n Big Mac (pão, hamburguer, molho, alface, pepino, cebola desidratada, queijo cheddar) - 5.90€
+                       \n Big Mac (Pao, Hamburguer, Molho, Alface, Pepino, Cebola Desidratada, Queijo Cheddar) - 5.90 euros
                        \n DriveIn
-                       \n 10-20min
-                       \n 10:00 - 02:00
+                       \n 10-20 min.
+                       \n 10:00h - 02:00h
                        \n Sim
                        \n 4.1'],
                     [' \n McDonalds
                        \n Fast Food
                        \n €
-                       \n CBO (pão, chicken mythic, molho, alface, cebola frita, queijo cheddar, bacon) - 6,30€
+                       \n CBO (Pao, Chicken Mythic, Molho, Alface, Cebola Frita, Queijo Cheddar, Bacon) - 6,30 euros
                        \n DriveIn
-                       \n 10-20min
-                       \n 10:00 - 02:00
+                       \n 10-20 min.
+                       \n 10:00h - 02:00h
                        \n Sim
                        \n 4.1'],
                     [' \n McDonalds
                        \n Fast Food
                        \n € 
-                       \n Wrap Chicken (frango panado, cebola frita, alface e maionese) - 2,00€
+                       \n Wrap Chicken (Frango Panado, Cebola Frita, Alface e Maionese) - 2,00 euros
                        \n DriveIn
-                       \n 10-20min
-                       \n 10:00 - 02:00
+                       \n 10-20 min.
+                       \n 10:0h0 - 02:00h
                        \n Sim
                        \n 4.1'],
                     [' \n McDonalds
                        \n Fast Food
                        \n €
-                       \n Happy Meal (pão, hambúguer, queijo cheddar, pickles, cebola, ketchup e mostarda) -  3,90€ 
+                       \n Happy Meal (Pao, Hambuguer, Queijo Cheddar, Pickles, Cebola, Ketchup e Mostarda) -  3,90 euros 
                        \n DriveIn
-                       \n 10-20min
-                       \n 10:00 - 02:00
+                       \n 10-20 min.
+                       \n 10:00h - 02:00h
                        \n Sim
                        \n 4.1']]).
 
@@ -265,46 +265,45 @@ solucao('perfil3',[ [' \n McDonalds
 solucao('perfil4',[ [' \n Pizza Hut
                        \n Pizza    
                        \n €
-                       \n CHEESEHAM (Molho de Tomate, Queijo 100% Mozzarella, Orégãos, Fiambre e Mozzarella Extra.) -  8,60 € 
-                       \n TROPICAL (Molho de Tomate, Queijo 100% Mozzarella, Orégãos, Ananás, Fiambre e Cogumelos Frescos.) - 9,60 € 
+                       \n CHEESEHAM (Molho de Tomate, Queijo Mozzarella, Oregaos, Fiambre e Mozzarella Extra) -  8,60 euros
                        \n Take Away
-                       \n 10-30min
-                       \n 10:00 - 22:00
+                       \n 10-30 min.
+                       \n 10:00h - 22:00h
                        \n Nenhuma
                        \n 3.8'],
                     [' \n Pizza Hut
                        \n Pizza    
                        \n €
-                       \n TROPICAL (Molho de Tomate, Queijo 100% Mozzarella, Orégãos, Ananás, Fiambre e Cogumelos Frescos.) - 9,60 € 
+                       \n TROPICAL (Molho de Tomate, Queijo Mozzarella, Oregaos, Ananas, Fiambre e Cogumelos Frescos) - 9,60 euros
                        \n Take Away
-                       \n 10-30min
-                       \n 10:00 - 22:00
+                       \n 10-30 min.
+                       \n 10:00h - 22:00h
                        \n Nenhuma
                        \n 3.8'],
                     [' \n Grupo Celeste
                        \n Pizza
                        \n €
-                       \n CELESTE (Molho de tomate, linguíça, fiambrino, queijo, mortadela, bacon, chourição, pimentos e azeitona) - 3.5 €
-                       \n 20-30min
-                       \n 07:00 - 22:30
+                       \n CELESTE (Molho de tomate, Linguica, Fiambrino, Queijo, Mortadela, Bacon, Chouriçao, Pimentos e Azeitona) - 3,50 euros
+                       \n 20-30 min.
+                       \n 07:00h - 22:30h
                        \n Nenhuma
                        \n 4.0'],
                     [' \n Grupo Celeste
                        \n Pizza
                        \n €
-                       \n UNIVERSAL (Molho de tomate, queijo, fiambrino e azeitona. *extra: cogumelos ou ananás ou carne picada) - 3.5 €
+                       \n UNIVERSAL (Molho de tomate, Queijo, Fiambrino e Azeitona mais (Cogumelos ou Ananas ou Carne picada)) - 3,50 euros
                        \n Take Away
-                       \n 20-30min
-                       \n 07:00 - 22:30
+                       \n 20-30 min.
+                       \n 07:00h - 22:30h
                        \n Nenhuma
                        \n 4.0'],
                     [' \n Grupo Celeste
                        \n Pizza
                        \n €
-                       \n CHOURIÇÃO (Molho de tomate, queijo, chourição, cebola e azeitona) - 3.75 €
+                       \n CHOURIÇAO (Molho de Tomate, Queijo, Chouriçao, Cebola e Azeitona) - 3,75 euros
                        \n Take Away
-                       \n 20-30min
-                       \n 07:00 - 22:30
+                       \n 20-30 min.
+                       \n 07:00h - 22:30h
                        \n Nenhuma
                        \n 4.0']]).
 
@@ -314,8 +313,8 @@ solucao('perfil4',[ [' \n Pizza Hut
                        \n €€
                        \n PESQUISAR NOME E PREÇO DAS PIZZAS
                        \n Take Away
-                       \n 20-30min
-                       \n 12:00 - 02:00
+                       \n 20-30 min.
+                       \n 12:00h - 02:00h
                        \n Nenhuma
                        \n 4.3']]).
 
@@ -323,46 +322,46 @@ solucao('perfil4',[ [' \n Pizza Hut
 solucao('perfil6',[ [' \n Pizza Hut
                        \n Pizza 
                        \n €
-                       \n CHEESEHAM (Molho de Tomate, Queijo 100% Mozzarella, Orégãos, Fiambre e Mozzarella Extra.) -  8,60 €
+                       \n CHEESEHAM (Molho de Tomate, Queijo Mozzarella, Oregaos, Fiambre e Mozzarella Extra) -  8,60 euros
                        \n Home Delivery
-                       \n 10-30min
-                       \n 10:00 - 22:00
+                       \n 10-30 min.
+                       \n 10:00h - 22:00h
                        \n Nenhuma
                        \n 3.8'],
                     [' \n Pizza Hut
                        \n Pizza 
                        \n €
-                       \n TROPICAL (Molho de Tomate, Queijo 100% Mozzarella, Orégãos, Ananás, Fiambre e Cogumelos Frescos.) - 9,60 € 
+                       \n TROPICAL (Molho de Tomate, Queijo Mozzarella, Oregaos, Ananas, Fiambre e Cogumelos Frescos) - 9,60 euros
                        \n Home Delivery
-                       \n 10-30min
-                       \n 10:00 - 22:00
+                       \n 10-30 min.
+                       \n 10:00h - 22:00h
                        \n Nenhuma
                        \n 3.8'],
                     [' \n Grupo Celeste
                        \n Pizza
                        \n €
-                       \n CELESTE (Molho de tomate, linguíça, fiambrino, queijo, mortadela, bacon, chourição, pimentos e azeitona) - 3.5 €
+                       \n CELESTE (Molho de tomate, Linguica, Fiambrino, Queijo, Mortadela, Bacon, Chouriçao, Pimentos e Azeitona) - 3,50 euros
                        \n Home Delivery
-                       \n 20-30min
-                       \n 07:00 - 22:30
+                       \n 20-30 min.
+                       \n 07:00h - 22:30h
                        \n Nenhuma
                        \n 4.0'],
                     [' \n Grupo Celeste
                        \n Pizza
                        \n €
-                       \n UNIVERSAL (Molho de tomate, queijo, fiambrino e azeitona. *extra: cogumelos ou ananás ou carne picada) - 3.5 €
+                       \n UNIVERSAL (Molho de tomate, Queijo, Fiambrino e Azeitona mais (Cogumelos ou Ananas ou Carne picada)) - 3,50 euros
                        \n Home Delivery
-                       \n 20-30min
-                       \n 07:00 - 22:30
+                       \n 20-30 min.
+                       \n 07:00h - 22:30h
                        \n Nenhuma
                        \n 4.0'],
                     [' \n Grupo Celeste
                        \n Pizza
                        \n €
-                       \n CHOURIÇÃO (Molho de tomate, queijo, chourição, cebola e azeitona) - 3.75 €
+                       \n CHOURIÇAO (Molho de Tomate, Queijo, Chouriçao, Cebola e Azeitona) - 3,75 euros
                        \n Home Delivery
-                       \n 20-30min
-                       \n 07:00 - 22:30
+                       \n 20-30 min.
+                       \n 07:00h - 22:30h
                        \n Nenhuma
                        \n 4.0']]).
 
@@ -370,28 +369,28 @@ solucao('perfil6',[ [' \n Pizza Hut
 solucao('perfil7',[ [' \n Pizza Hut
                        \n Pizza 
                        \n €
-                       \n VEGGIE LOVERS (Molho de Tomate, Queijo 100% Mozzarella, Orégãos, Mistura de Vegetais, Milho, Tomate e Azeitonas.) - 8,60 €
+                       \n VEGGIE LOVERS (Molho de Tomate, Queijo Mozzarella, Oregaos, Mistura de Vegetais, Milho, Tomate e Azeitonas) - 8,60 euros
                        \n Take away
-                       \n 10-30min
-                       \n 10:00 - 22:00
+                       \n 10-30 min.
+                       \n 10:00h - 22:00h
                        \n Nenhuma
                        \n 3.8'],
                     [' \n Pizza Hut
                        \n Pizza 
                        \n €
-                       \n 5 QUEIJOS (Molho de Tomate, Queijo Mozzarella, Red Leicester, Monterey Jack, Queijo de Cabra, Parmesão e Orégãos.) - 10,60 € 
+                       \n 5 QUEIJOS (Molho de Tomate, Queijo Mozzarella, Red Leicester, Monterey Jack, Queijo de Cabra, Parmesao e Oregaos.) - 10,60 euros
                        \n Take away
-                       \n 10-30min
-                       \n 10:00 - 22:00
+                       \n 10-30 min.
+                       \n 10:00h - 22:00h
                        \n Nenhuma
                        \n 3.8'],
                     [' \n Grupo Celeste
                        \n Pizza
                        \n €
-                       \n 4 QUEIJOS (Molho de tomate, queijo edamer, queijo mozzarella, queijo fresco, queijo parmesão, ananás, orégãos e azeitona.) - PROCURAR PRECO
+                       \n 4 QUEIJOS (Molho de Tomate, Queijo Edamer, Queijo Mozzarella, Queijo Fresco, Queijo Parmesao, Ananas, Oregaos e Azeitona) - 4,50 euros
                        \n Take away
-                       \n 20-30min
-                       \n 07:00 - 22:30
+                       \n 20-30 min.
+                       \n 07:00h - 22:30h
                        \n Nenhuma
                        \n 4.0']]).
 
@@ -399,28 +398,28 @@ solucao('perfil7',[ [' \n Pizza Hut
 solucao('perfil8',[ [' \n Pizza Hut
                        \n Pizza 
                        \n €
-                       \n VEGGIE LOVERS (Molho de Tomate, Queijo 100% Mozzarella, Orégãos, Mistura de Vegetais, Milho, Tomate e Azeitonas.) - 8,60 € 
+                       \n VEGGIE LOVERS (Molho de Tomate, Queijo Mozzarella, Oregaos, Mistura de Vegetais, Milho, Tomate e Azeitonas) - 8,60 euros
                        \n Home Delivery
-                       \n 10-30min
-                       \n 10:00 - 22:00
+                       \n 10-30 min.
+                       \n 10:00h - 22:00h
                        \n Nenhuma
                        \n 3.8'],
                     [' \n Pizza Hut
                        \n Pizza 
                        \n € 
-                       \n 5 QUEIJOS (Molho de Tomate, Queijo Mozzarella, Red Leicester, Monterey Jack, Queijo de Cabra, Parmesão e Orégãos.) - 10,60 € 
+                       \n 5 QUEIJOS (Molho de Tomate, Queijo Mozzarella, Red Leicester, Monterey Jack, Queijo de Cabra, Parmesao e Oregaos.) - 10,60 euros
                        \n Home Delivery
-                       \n 10-30min
-                       \n 10:00 - 22:00
+                       \n 10-30 min.
+                       \n 10:00h - 22:00h
                        \n Nenhuma
                        \n 3.8'],
                     [' \n Grupo Celeste
                        \n Pizza
                        \n €
-                       \n 4 QUEIJOS (Molho de tomate, queijo edamer, queijo mozzarella, queijo fresco, queijo parmesão, ananás, orégãos e azeitona.) - PROCURAR PRECO
+                       \n 4 QUEIJOS (Molho de Tomate, Queijo Edamer, Queijo Mozzarella, Queijo Fresco, Queijo Parmesao, Ananas, Oregaos e Azeitona) - 4,50 euros
                        \n Home Delivery
-                       \n 20-30min
-                       \n 07:00 - 22:30
+                       \n 20-30 min.
+                       \n 07:00h - 22:30h
                        \n Nenhuma
                        \n 4.0']]).
 
@@ -428,10 +427,10 @@ solucao('perfil8',[ [' \n Pizza Hut
 solucao('perfil9',[ [' \n Grupo Celeste
                        \n Pizza
                        \n €
-                       \n ATUM (Molho de tomate, queijo, atum, ovo às rodelas e azeitona) - PROCURAR PRECO
+                       \n ATUM (Molho de tomate, Queijo, Atum, Ovo as Rodelas e Azeitona) - 4,50 euros
                        \n Take Away
-                       \n 20-30min
-                       \n 07:00 - 22:30
+                       \n 20-30 min.
+                       \n 07:00h - 22:30h
                        \n Nenhuma
                        \n 4.0']]).
 
@@ -439,10 +438,10 @@ solucao('perfil9',[ [' \n Grupo Celeste
 solucao('perfil10',[ [' \n Grupo Celeste
                        \n Pizza
                        \n €
-                       \n ATUM (Molho de tomate, queijo, atum, ovo às rodelas e azeitona) - PROCURAR PRECO
+                       \n ATUM (Molho de tomate, Queijo, Atum, Ovo as Rodelas e Azeitona) - 4,50 euros
                        \n Home Delivery
-                       \n 20-30min
-                       \n 07:00 - 22:30
+                       \n 20-30 min.
+                       \n 07:00h - 22:30h
                        \n Nenhuma
                        \n 4.0']]).
 
@@ -450,46 +449,46 @@ solucao('perfil10',[ [' \n Grupo Celeste
 solucao('perfil11',[ [' \n DGostar
                        \n Comida Portuguesa
                        \n €
-                       \n Vitela assada - 5.5€
+                       \n Vitela Assada - 5,50 euros
                        \n Take Away
-                       \n 15-25min
-                       \n 11:45 - 21:30
+                       \n 15-25 min.
+                       \n 11:45h - 21:30h
                        \n Nenhuma
                        \n 4.3'],
                     [' \n DGostar
                        \n Comida Portuguesa
                        \n €
-                       \n Tripas à moda do Porto - 5.5€
+                       \n Tripas a Moda do Porto - 5,50 euros
                        \n Take Away
-                       \n 15-25min
-                       \n 11:45 - 21:30
+                       \n 15-25 min.
+                       \n 11:45h - 21:30h
                        \n Nenhuma
                        \n 4.3'],
                     [' \n Cantinho dos Sabores
                        \n Comida Portuguesa
                        \n €
-                       \n Bitoque - 6.5€
+                       \n Bitoque - 6,50 euros
                        \n Take Away
-                       \n 15-30min
-                       \n 10:00 - 22:00
+                       \n 15-30 min.
+                       \n 10:00h - 22:00h
                        \n Nenhuma
                        \n 4.5'],
                     [' \n Cantinho dos Sabores
                        \n Comida Portuguesa
                        \n €
-                       \n Vitela à Casa - 6.5€
+                       \n Vitela a Casa - 6,50 euros
                        \n Take Away
-                       \n 15-30min
-                       \n 10:00 - 22:00
+                       \n 15-30 min.
+                       \n 10:00h - 22:00h
                        \n Nenhuma
                        \n 4.5'],
                     [' \n Solar do Arco
                        \n Comida Portuguesa
                        \n €
-                       \n Bifinhos de vitela - 7.5€
+                       \n Bifinhos de Vitela - 7,50 euros
                        \n Take Away
-                       \n 25-45min
-                       \n 12:00 - 23:00
+                       \n 25-45 min.
+                       \n 12:00h - 23:00h
                        \n Sim
                        \n 4.6']]).
 
@@ -497,55 +496,55 @@ solucao('perfil11',[ [' \n DGostar
 solucao('perfil12',[ [' \n DGostar
                        \n Comida Portuguesa
                        \n €
-                       \n Filetes de Pescada - 5.5€
+                       \n Filetes de Pescada - 5,50 euros
                        \n Take Away
-                       \n 15-25min
-                       \n 11:45 - 21:30
+                       \n 15-25 min.
+                       \n 11:45h - 21:30h
                        \n Nenhuma
                        \n 4.3'],
                     [' \n DGostar
                        \n Comida Portuguesa
                        \n €
-                       \n Bacalhau à Brás - 5.5€
+                       \n Bacalhau a Bras - 5,50 euros
                        \n Take Away
-                       \n 15-25min
-                       \n 11:45 - 21:30
+                       \n 15-25 min.
+                       \n 11:45h - 21:30h
                        \n Nenhuma
                        \n 4.3'],
                     [' \n Cantinho dos Sabores
                        \n Comida Portuguesa
                        \n €
-                       \n Bacalhau com Broa - 6.5€
+                       \n Bacalhau com Broa - 6,50 euros
                        \n Take Away
-                       \n 15-30min
-                       \n 10:00 - 22:00
+                       \n 15-30 min.
+                       \n 10:00h - 22:00h
                        \n Nenhuma
                        \n 4.5'],
                     [' \n Cantinho dos Sabores
                        \n Comida Portuguesa
                        \n €
-                       \n Polvo à Lagareiro - 6.5€
+                       \n Polvo a Lagareiro - 6,50 euros
                        \n Take Away
-                       \n 15-30min
-                       \n 10:00 - 22:00
+                       \n 15-30 min.
+                       \n 10:00h - 22:00h
                        \n Nenhuma
                        \n 4.5'],
                     [' \n Solar do Arco
                        \n Comida Portuguesa
                        \n €
-                       \n Arroz de Marisco - 10€                      
+                       \n Arroz de Marisco - 10,00 €                      
                        \n Take Away
-                       \n 25-45min
-                       \n 12:00 - 23:00
+                       \n 25-45 min.
+                       \n 12:00h - 23:00h
                        \n Sim
                        \n 4.6'],
                     [' \n Solar do Arco
                        \n Comida Portuguesa
                        \n €
-                       \n Robalo Assado - 9.5€                       
+                       \n Robalo Assado - 9,50 euros                       
                        \n Take Away
-                       \n 25-45min
-                       \n 12:00 - 23:00
+                       \n 25-45 min.
+                       \n 12:00h - 23:00h
                        \n Sim
                        \n 4.6']]).
 
@@ -553,10 +552,10 @@ solucao('perfil12',[ [' \n DGostar
 solucao('perfil13',[ [' \n DGostar
                        \n Comida Portuguesa
                        \n €
-                       \n Quiche de legumes 5.5€
+                       \n Quiche de Legumes 5,50 euros
                        \n Take Away
-                       \n 15-25min
-                       \n 11:45 - 21:30
+                       \n 15-25 min.
+                       \n 11:45h - 21:30h
                        \n Nenhuma
                        \n 4.3']]).
 
@@ -564,19 +563,19 @@ solucao('perfil13',[ [' \n DGostar
 solucao('perfil14',[ [' \n DGostar
                        \n Comida Portuguesa
                        \n €
-                       \n Vitela assada - 5.5€
+                       \n Vitela Assada - 5,50 euros
                        \n Home Delivery
-                       \n 15-25min
-                       \n 11:45 - 21:30
+                       \n 15-25 min.
+                       \n 11:45h - 21:30h
                        \n Nenhuma
                        \n 4.3'],
                     [' \n DGostar
                        \n Comida Portuguesa
                        \n €
-                       \n Tripas à moda do Porto - 5.5€
+                       \n Tripas a Moda do Porto - 5,50 euros
                        \n Home Delivery
-                       \n 15-25min
-                       \n 11:45 - 21:30
+                       \n 15-25 min.
+                       \n 11:45h - 21:30h
                        \n Nenhuma
                        \n 4.3']]).
 
@@ -584,19 +583,19 @@ solucao('perfil14',[ [' \n DGostar
 solucao('perfil15',[ [' \n DGostar
                        \n Comida Portuguesa
                        \n €
-                       \n Filetes de Pescada - 5.5€
+                       \n Filetes de Pescada - 5,50 euros
                        \n Home Delivery
-                       \n 15-25min
-                       \n 11:45 - 21:30
+                       \n 15-25 min.
+                       \n 11:45h - 21:30h
                        \n Nenhuma
                        \n 4.3'],
                     [' \n DGostar
                        \n Comida Portuguesa
                        \n €
-                       \n Bacalhau à Brás - 5.5€
+                       \n Bacalhau à Brás - 5,50 euros
                        \n Home Delivery
-                       \n 15-25min
-                       \n 11:45 - 21:30
+                       \n 15-25 min.
+                       \n 11:45h - 21:30h
                        \n Nenhuma
                        \n 4.3']]).
 
@@ -604,123 +603,123 @@ solucao('perfil15',[ [' \n DGostar
 solucao('perfil16',[ [' \n DGostar
                        \n Comida Portuguesa
                        \n €
-                       \n Quiche de legumes 5.5€
+                       \n Quiche de Legumes 5,50 euros
                        \n Home Delivery
-                       \n 15-25min
-                       \n 11:45 - 21:30
+                       \n 15-25 min.
+                       \n 11:45h - 21:30h
                        \n Nenhuma
                        \n 4.3']]).
 
 
 % Sushi Take Away crudivoro caro
 solucao('perfil17',[ ['\n Roiyaru
-                       \n Japonês
+                       \n Japones
                        \n €€
-                       \n Caixa A1 (Uramaki de salmão e ovas, uramaki de salmão, abacate maki, egg maki e hossomaki de salmão) - 10.50€
+                       \n Caixa A1 (Uramaki de Salmao e Ovas, Uramaki de Salmao, Abacate Maki, Egg Maki e Hossomaki de Salmao) - 10,50 euros
                        \n Take Away
-                       \n 15-30min
-                       \n 12:00 - 23:00
+                       \n 15-30 min.
+                       \n 12:00h - 23:00h
+                       \n Nenhuma
+                       \n 3.5'],
+                    ['\n Roiyaru
+                       \n Japones
+                       \n €€
+                       \n Caixa A4 (Nigiri de Salmão Flamejado, Gunkan Flamejado, Tempura de Hossomaki, Tempura Maki de Ovo e Uramaki de Salmao com Amendoim) - 10,50 euros
+                       \n Take Away
+                       \n 15-30 min.
+                       \n 12:00h - 23:00h
+                       \n Nenhuma
+                       \n 3.5'],
+                    ['\n Roiyaru
+                       \n Japones
+                       \n €€
+                       \n Caixa A5 (Sashimi de Salmao, Uramaki de Gambas Panadas com Cocktail, Burnt de Salmao, Uramaki e Seaweed de Uramaki) - 10,50 euros
+                       \n Take Away
+                       \n 15-30 min.
+                       \n 12:00h - 23:00h
                        \n Nenhuma
                        \n 3.5'],
                     ['\n Roiyaru
                        \n Japonês
                        \n €€
-                       \n Caixa A4 (Nigiri de salmão flamejado, gunkan flamejado, tempura de hossomaki, tempura maki de ovo e uramaki de salmão com amendoim) - 10.50€
+                       \n Caixa A6 (Mix de Sashimi de Salmao Atum e Peixe Manteiga, Abacate Maki, Uramaki de Salmao e Uramaki de Salmão com Ovas) - 10,50 euros
                        \n Take Away
-                       \n 15-30min
-                       \n 12:00 - 23:00
-                       \n Nenhuma
-                       \n 3.5'],
-                    ['\n Roiyaru
-                       \n Japonês
-                       \n €€
-                       \n Caixa A5 (sashimi de salmão, uramaki de gambas panadas com cocktail, burnt de salmão, uramaki e seaweed de uramaki) - 10.50€
-                       \n Take Away
-                       \n 15-30min
-                       \n 12:00 - 23:00
-                       \n Nenhuma
-                       \n 3.5'],
-                    ['\n Roiyaru
-                       \n Japonês
-                       \n €€
-                       \n Caixa A6 (mix de sashimi de salmão atum e peixe manteiga, abacate maki, uramaki de salmão e uramaki de salmão com ovas) - 10.50€
-                       \n Take Away
-                       \n 15-30min
-                       \n 12:00 - 23:00
+                       \n 15-30 min.
+                       \n 12:00h - 23:00h
                        \n Nenhuma
                        \n 3.5'],
                     [' \n Yamakazi  Sushi Club
-                       \n Japonês
+                       \n Japones
                        \n €€
-                       \n Ebi Yakisoba (massa salteada com legumes e gambas) - 9€
+                       \n Ebi Yakisoba (Massa Salteada com Legumes e Gambas) - 9,00 euros
                        \n Take Away
-                       \n 15-25min
-                       \n 12:30 - 22:30
+                       \n 15-25 min.
+                       \n 12:30h - 22:30h
                        \n Nenhuma
                        \n 4.5'],
                     [' \n Yamakazi  Sushi Club
-                       \n Japonês
+                       \n Japones
                        \n €€
-                       \n Temaki Philadelphia (cone de salmão picado com cream cheese) - 4.9€
+                       \n Temaki Philadelphia (Cone de Salmão Picado com Cream Cheese) - 4,90 euros
                        \n Take Away
-                       \n 15-25min
-                       \n 12:30 - 22:30
+                       \n 15-25 min.
+                       \n 12:30h - 22:30h
                        \n Nenhuma
                        \n 4.5'],
                     [' \n Yamakazi  Sushi Club
-                       \n Japonês
+                       \n Japones
                        \n €€
-                       \n Shiro Maki (rolo de peixe branco e arroz) - 4.9€
+                       \n Shiro Maki (Rolo de Peixe Branco e Arroz) - 4,90 euros
                        \n Take Away
-                       \n 15-25min
-                       \n 12:30 - 22:30
+                       \n 15-25 min.
+                       \n 12:30h - 22:30h
                        \n Nenhuma
                        \n 4.5'],
                     [' \n Yamakazi  Sushi Club
-                       \n Japonês
+                       \n Japones
                        \n €€
-                       \n Hot yamakazi (alga, arroz, cream cheese, camarão, salmão, tobiko e cebolinho) - 7.9€
+                       \n Hot Yamakazi (Alga, Arroz, Cream Cheese, Camarao, Salmao, Tobiko e Cebolinho) - 7,90 euros
                        \n Take Away
-                       \n 15-25min
-                       \n 12:30 - 22:30
+                       \n 15-25 min.
+                       \n 12:30h - 22:30h
                        \n Nenhuma
                        \n 4.5']]).
 
 % Chines Take Away carnivoro barato
 solucao('perfil18',[ ['\n Jardim Bambu
-                       \n Chinês
+                       \n Chines
                        \n €
-                       \n Chop Suey de vaca com arroz chao chao e crepe - 4.95€
+                       \n Chop Suey de Vaca com Arroz Chao Chao e Crepe - 4,95 euros
                        \n Take Away
-                       \n 15-20min
-                       \n 11:30 - 23:00
+                       \n 15-20 min.
+                       \n 11:30h - 23:00h
                        \n Nenhuma
                        \n 4.3'],
                     ['\n Jardim Bambu
-                       \n Chinês
+                       \n Chines
                        \n €
-                       \n Gambas com cogumelos com arroz chao chao e crepe - 5.95€
+                       \n Gambas com Cogumelos com Arroz Chao Chao e Crepe - 5,95 euros
                        \n Take Away
-                       \n 15-20min
-                       \n 11:30 - 23:00
+                       \n 15-20 min.
+                       \n 11:30h - 23:00h
                        \n Nenhuma
                        \n 4.3'],
                     ['\n Jardim Bambu
-                       \n Chinês
+                       \n Chines
                        \n €
-                       \n Porco agridoce com arroz chao chao e crepe - 4.95€
+                       \n Porco Agridoce com Arroz Chao Chao e Crepe - 4,95 euros
                        \n Take Away
-                       \n 15-20min
-                       \n 11:30 - 23:00
+                       \n 15-20 min.
+                       \n 11:30h - 23:00h
                        \n Nenhuma
                        \n 4.3'],
                     ['\n Jardim Bambu
-                       \n Chinês
+                       \n Chines
                        \n €
-                       \n Pato à cantão com arroz chao chao e crepe - 5.95€
+                       \n Pato a Cantao com Arroz Chao Chao e Crepe - 5,95 euros
                        \n Take Away
-                       \n 15-20min
-                       \n 11:30 - 23:00
+                       \n 15-20 min.
+                       \n 11:30h - 23:00h
                        \n Nenhuma
                        \n 4.3']]).
 
@@ -729,57 +728,57 @@ solucao('perfil18',[ ['\n Jardim Bambu
 solucao('perfil19',[ ['\n Donna Veggie
                        \n Vegetariano
                        \n €€
-                       \n Tofu com broa e batata à murro
+                       \n Tofu com Broa e Batata a Murro
                        \n Take Away
-                       \n 10-20min
-                       \n 12:30 - 14:30
+                       \n 10-20 min.
+                       \n 12:30h - 14:30h
                        \n Sim
                        \n 4.8'],
                     ['\n Donna Veggie
                        \n Vegetariano
                        \n €€
-                       \n Penne com cogumelos, queijo vegan e molho pesto
+                       \n Penne com Cogumelos, Queijo Vegan e Molho Pesto
                        \n Take Away
-                       \n 10-20min
-                       \n 12:30 - 14:30
+                       \n 10-20 min.
+                       \n 12:30h - 14:30h
                        \n Sim
                        \n 4.8'],
                     ['\n Donna Veggie
                        \n Vegetariano
                        \n €€
-                       \n Seitan à cervejeiro com batatas wedges
+                       \n Seitan a Cervejeiro com Batatas Wedges
                        \n Take Away
-                       \n 10-20min
-                       \n 12:30 - 14:30
+                       \n 10-20 min.
+                       \n 12:30h - 14:30h
                        \n Sim
                        \n 4.8'],
                     ['\n Donna Veggie
                        \n Vegetariano
                        \n €€
-                       \n Feijão preto com cogumelos
+                       \n Feijao Preto com Cogumelos
                        \n Take Away
-                       \n 10-20min
-                       \n 12:30 - 14:30
+                       \n 10-20 min.
+                       \n 12:30h - 14:30h
                        \n Sim
                        \n 4.8'],
-                    [' \n Gomásio
+                    [' \n Gomasio
                        \n Vegetariano
                        \n €€
-                       \n Lasanha de tofu com legumes
+                       \n Lasanha de Tofu com Legumes
                        \n Consultar a ementa do dia
                        \n Take Away
-                       \n 10-20min
-                       \n 12:30 - 14:30
+                       \n 10-20 min.
+                       \n 12:30h - 14:30h
                        \n Sim
                        \n 4.8'],
-                    [' \n Gomásio
+                    [' \n Gomasio
                        \n Vegetariano
                        \n €€
-                       \n Estufado de feijão vermelho com tempura de legumes e arroz integral
+                       \n Estufado de Feijao Vermelho com Tempura de Legumes e Arroz Integral
                        \n Consultar a ementa do dia
                        \n Take Away
-                       \n 10-20min
-                       \n 12:30 - 14:30
+                       \n 10-20 min.
+                       \n 12:30h - 14:30h
                        \n Sim
                        \n 4.8']]).  
 
@@ -787,37 +786,37 @@ solucao('perfil19',[ ['\n Donna Veggie
 solucao('perfil20',[ ['\n Jhalfrezi
                        \n Indiano
                        \n €€
-                       \n Chicken Korma (Frango em cubos com molho grosso à base de tomate fresco com cardamomo, louro, gengibre fresco, leite de coco, especiarias, amêndoas trituradas e folhas de coentros) - 9,75€
+                       \n Chicken Korma (Frango em Cubos com Molho Grosso a Base de Tomate Fresco com Cardamomo, Louro, Gengibre Fresco, Leite de Coco, Especiarias, Amendoas Trituradas e Folhas de Coentros) - 9,75 euros
                        \n Take Away
-                       \n 15-30min
-                       \n 19:00 - 22:00
+                       \n 15-30 min.
+                       \n 19:00h - 22:00h
                        \n Sim
                        \n 4.4'],
                     ['\n Jhalfrezi
                        \n Indiano
                        \n €€
-                       \n Chicken Kadai (Frango em cubos com molho grosso à base de tomate fresco com malagueta verde, malagueta vermelha, especiarias e folhas de coentros) - 9,50€
+                       \n Chicken Kadai (Frango em Cubos com Molho Grosso a Base de Tomate Fresco com Malagueta Verde, Malagueta Vermelha, Especiarias e Folhas de Coentros) - 9,50 euros
                        \n Take Away
-                       \n 15-30min
-                       \n 19:00 - 22:00
+                       \n 15-30 min.
+                       \n 19:00h - 22:00h
                        \n Sim
                        \n 4.4'],
                     ['\n Jhalfrezi
                        \n Indiano
                        \n €€
-                       \n Prawn Korma (Camarão com molho à base de purê de tomate fresco, louro, alho, cebola, gengibre fresco, leite de coco, especiarias, natas e folhas de coentros) - 13,00€
+                       \n Prawn Korma (Camarao com Molho a Base de Purêe de Tomate Fresco, Louro, Alho, Cebola, Gengibre Fresco, Leite de Coco, Especiarias, Natas e Folhas de Coentros) - 13,00 euros
                        \n Take Away
-                       \n 15-30min
-                       \n 19:00 - 22:00
+                       \n 15-30 min.
+                       \n 19:00h - 22:00h
                        \n Sim
                        \n 4.4'],
                     ['\n Jhalfrezi
                        \n Indiano
                        \n €€
-                       \n Prawn curry (Camarão com molho à base de tomate fresco e especiarias, natas, caril "London Finnest" e folhas de coentros) - 12,50€
+                       \n Prawn Curry (Camarao com Molho Base de Tomate Fresco e Especiarias, Natas, Caril "London Finnest" e Folhas de Coentros) - 12,50 euros
                        \n Take Away
-                       \n 15-30min
-                       \n 19:00 - 22:00
+                       \n 15-30 min.
+                       \n 19:00h - 22:00h
                        \n Sim
                        \n 4.4']]).  
 
@@ -825,37 +824,37 @@ solucao('perfil20',[ ['\n Jhalfrezi
 solucao('perfil21',[ ['\n Jhalfrezi
                        \n Indiano
                        \n €€
-                       \n Chicken Korma (Frango em cubos com molho grosso à base de tomate fresco com cardamomo, louro, gengibre fresco, leite de coco, especiarias, amêndoas trituradas e folhas de coentros) - 9,75€
+                       \n Chicken Korma (Frango em Cubos com Molho Grosso a Base de Tomate Fresco com Cardamomo, Louro, Gengibre Fresco, Leite de Coco, Especiarias, Amendoas Trituradas e Folhas de Coentros) - 9,75 euros
                        \n Home Delivery
-                       \n 15-30min
-                       \n 19:00 - 22:00
+                       \n 15-30 min.
+                       \n 19:00h - 22:00h
                        \n Sim
                        \n 4.4'],
                     ['\n Jhalfrezi
                        \n Indiano
                        \n €€
-                       \n Chicken Kadai (Frango em cubos com molho grosso à base de tomate fresco com malagueta verde, malagueta vermelha, especiarias e folhas de coentros) - 9,50€
+                       \n Chicken Kadai (Frango em Cubos com Molho Grosso a Base de Tomate Fresco com Malagueta Verde, Malagueta Vermelha, Especiarias e Folhas de Coentros) - 9,50 euros
                        \n Home Delivery
-                       \n 15-30min
-                       \n 19:00 - 22:00
+                       \n 15-30 min.
+                       \n 19:00h - 22:00h
                        \n Sim
                        \n 4.4'],
                     ['\n Jhalfrezi
                        \n Indiano
                        \n €€
-                       \n Prawn Korma (Camarão com molho à base de purê de tomate fresco, louro, alho, cebola, gengibre fresco, leite de coco, especiarias, natas e folhas de coentros) - 13,00€
+                       \n Prawn Korma (Camarao com Molho a Base de Purêe de Tomate Fresco, Louro, Alho, Cebola, Gengibre Fresco, Leite de Coco, Especiarias, Natas e Folhas de Coentros) - 13,00 euros
                        \n Home Delivery
-                       \n 15-30min
-                       \n 19:00 - 22:00
+                       \n 15-30 min.
+                       \n 19:00h - 22:00h
                        \n Sim
                        \n 4.4'],
                     ['\n Jhalfrezi
                        \n Indiano
                        \n €€
-                       \n Prawn curry (Camarão com molho à base de tomate fresco e especiarias, natas, caril "London Finnest" e folhas de coentros) - 12,50€
+                       \n Prawn Curry (Camarao com Molho Base de Tomate Fresco e Especiarias, Natas, Caril "London Finnest" e Folhas de Coentros) - 12,50 euros
                        \n Home Delivery
-                       \n 15-30min
-                       \n 19:00 - 22:00
+                       \n 15-30 min.
+                       \n 19:00h - 22:00h
                        \n Sim
                        \n 4.4']]).  
 
@@ -865,8 +864,8 @@ solucao('perfil22',[ ['\n Villa Fiori
                        \n €€
                        \n Lasanha
                        \n Take Away
-                       \n 10-20min
-                       \n 12:00 - 02:00
+                       \n 10-20 min.
+                       \n 12:00h - 02:00h
                        \n Nenhuma
                        \n 4.3'],
                     ['\n Villa Fiori
@@ -874,8 +873,8 @@ solucao('perfil22',[ ['\n Villa Fiori
                        \n €€
                        \n Prego
                        \n Take Away
-                       \n 10-20min
-                       \n 12:00 - 02:00
+                       \n 10-20 min.
+                       \n 12:00h - 02:00h
                        \n Nenhuma
                        \n 4.3'],
                     ['\n Villa Fiori
@@ -883,8 +882,8 @@ solucao('perfil22',[ ['\n Villa Fiori
                        \n €€
                        \n Hamburguer
                        \n Take Away
-                       \n 10-20min
-                       \n 12:00 - 02:00
+                       \n 10-20 min.
+                       \n 12:00h - 02:00h
                        \n Nenhuma
                        \n 4.3'],
                     ['\n Villa Fiori
@@ -892,8 +891,8 @@ solucao('perfil22',[ ['\n Villa Fiori
                        \n €€
                        \n Pizzas
                        \n Take Away
-                       \n 10-20min
-                       \n 12:00 - 02:00
+                       \n 10-20 min.
+                       \n 12:00h - 02:00h
                        \n Nenhuma
                        \n 4.3'],
                     [' \n Ristorante Faustinni 99
@@ -901,17 +900,17 @@ solucao('perfil22',[ ['\n Villa Fiori
                        \n €€
                        \n Lasanha
                        \n Take Away
-                       \n 25-45min
-                       \n 12:00 - 22:00
+                       \n 25-45 min.
+                       \n 12:00h - 22:00h
                        \n Sim
                        \n 4.0'],
                     [' \n Ristorante Faustinni 99
                        \n Italiano
                        \n €€
-                       \n Arroz com pollo
+                       \n Arroz com Pollo
                        \n Take Away
-                       \n 25-45min
-                       \n 12:00 - 22:00
+                       \n 25-45 min.
+                       \n 12:00h - 22:00h
                        \n Sim
                        \n 4.0']]).  
 
@@ -919,10 +918,10 @@ solucao('perfil22',[ ['\n Villa Fiori
 solucao('perfil23',[[' \n Ristorante Faustinni 99
                        \n Italiano
                        \n €€
-                       \n Carpaccio de polvo
+                       \n Carpaccio de Polvo
                        \n Take Away
-                       \n 25-45min
-                       \n 12:00 - 22:00
+                       \n 25-45 min.
+                       \n 12:00h - 22:00h
                        \n Sim
                        \n 4.0']]).    
 
@@ -930,9 +929,9 @@ solucao('perfil23',[[' \n Ristorante Faustinni 99
 solucao('perfil24',[[' \n Ristorante Faustinni 99
                        \n Italiano
                        \n €€
-                       \n Risoto de cogumelos
+                       \n Risoto de Cogumelos
                        \n Take Away
-                       \n 25-45min
-                       \n 12:00 - 22:00
+                       \n 25-45 min.
+                       \n 12:00h - 22:00h
                        \n Sim
                        \n 4.0']]).   
