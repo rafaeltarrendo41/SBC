@@ -72,7 +72,7 @@ conhecimento automática, criadas pelo software Weka.
 
 #### Start your application ....
   ```run .....
-   aqui morreu camões
+   Executar o programa no software Apache NetBeans
   ```
 
 ### Installation  <a name = "install1"></a>
@@ -83,7 +83,7 @@ conhecimento automática, criadas pelo software Weka.
   ```
 #### Install all the dependecies
   ```sh
-  xxxxxx
+  Verificar se o projeto contém na sua library o ficheiro jpl.jar fornecido pelo SWI-Prolog.
   ```
 
 ### Usage  <a name = "usage1"></a>
