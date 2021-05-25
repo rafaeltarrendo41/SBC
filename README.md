@@ -51,9 +51,8 @@ subdividida em duas partes e é relativa ao aconselhamento de trajeto de entrega
 Criámos um Sistema Baseado em Conhecimento que tem como objetivo o aconselhamento para a compra de uma refeição, tendo em conta os tipos de serviços disponibilizados, tais como food delivery, take away e drive in.
 
 ### Parte 1 - Aquisição manual de conhecimento  <a name = "ta1"></a>
-No que diz respeito à parte 1 da tarefa A, o grupo desenvolveu um Sistema Baseado em
-Conhecimento que tinha como objetivo o utilizador responder a uma série de questões e como
-retorno, o SBC iria tomar uma decisão oferecendo, tendo em conta o resultado, a/as refeição/ões
+No que diz respeito à parte 1 da tarefa A, o utilizador deve responder a uma série de questões e como
+retorno, o SBC irá retornar uma solução, que contém as refeições 
 que melhor respondem às necessidades do utilizador.
 
 ### Parte 2 - Aquisição automática de conhecimento <a name = "ta2"></a>
