@@ -103,6 +103,7 @@ Nesta parte foram desenvolvidas as funcionalidades de optimização usando o mé
 * [SWI-Prolog 8.2.4](https://www.swi-prolog.org/download/stable)
 * [Apache NetBeans](https://netbeans.apache.org/)
 
+
 ## Getting started <a name = "getting2"></a>
 
 ### Quick-start <a name = "quick2"></a>
@@ -118,14 +119,17 @@ Nesta parte foram desenvolvidas as funcionalidades de optimização usando o mé
   
 ## Ferramentas <a name = "built"></a>
 * [SWI-Prolog](https://www.swi-prolog.org)
-
+* [Apache NetBeans](https://netbeans.apache.org/)
+* [Weka](https://waikato.github.io/weka-wiki/downloading_weka/)
+* [Excel](https://www.microsoft.com/pt-pt/microsoft-365/excel)
 
 
 ## Contactos <a name = "contact"></a>
 
-* [EU](mailto:eu0@hotmail.com)
-* [Tu](mailto:tu@gmail.com)
-* [Vos](mailto:vos@gmail.com)
+* [Ana Francisca Cunha](kikacunha2010@gmail.com)
+* [Carlos Soares](carlos150007@gmail.com)
+* [Carolina Alves](carolinagoncalvesalves@gmail.com)
+* [Rafael Brito](rafaeltarrendo@gmail.com)
 
 
 ## Acknowledgments <a name = "ack"></a>
@@ -133,6 +137,11 @@ Nesta parte foram desenvolvidas as funcionalidades de optimização usando o mé
 * [André Pilastri](https://pilastri.github.io/andrepilastri.github.io/#about)
 
 ## Referências <a name = "refer"></a>
+*[Repositório Uminho](http://repositorium.sdum.uminho.pt/bitstream/1822/54476/3/exercicios-sbc2021.pdf)
+
+Ivan Brakto Prolog book (old edition, 2001)
+
+V. Alaiba and A. Rotaru, "Agent architecture for building Robocode players with SWI-Prolog," 2008 International Multiconference on Computer Science and Information Technology, 2008, pp. 3-7, doi: 10.1109/IMCSIT.2008.4747210
 
 ## Licensa <a name = "license"></a>
 
