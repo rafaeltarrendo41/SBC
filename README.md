@@ -5,7 +5,7 @@
   <a href="https://www.eng.uminho.pt" target="_blank"><img src="https://i.imgur.com/WABo4st.png" alt="Escola de Engenharia"></a>
   <br><a href="http://www.dsi.uminho.pt" target="_blank"><strong>Departamento de Sistemas de Informação</strong></a>
   
-  <h2 align="center">Projeto Prá* [Tu](mailto:tu@gmail.com)tico SBC - MIEGSI 2020/2021</h2>
+  <h2 align="center">Projeto Prático SBC Grupo 61- MIEGSI 2020/2021</h2>
   <br>
   
 ## Índice de conteúdos
