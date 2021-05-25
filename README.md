@@ -40,7 +40,11 @@
 
 ## Introdução <a name = "intro"></a>
 
-No âmbito da unidade curricular de Sistemas Baseados em Conhecimento, foi-nos proposto a conceção de um SBC implementado na linguagem Prolog, estando a mesma dividida em 2 tarefas com 2 partes cada uma, tendo por base o conceito de food delivery, tão em voga no último ano decorrente da situação pandémica que vivenciamos.
+Este projeto foi desenvolvido no âmbito da unidade curricular de Sistemas Baseados em
+Conhecimento inserida no 3o ano do curso MIEGSI no ano letivo de 2020/2021. Encontra-se
+dividido em duas tarefas principais. A Tarefa A apresenta duas partes tendo como objetivo
+elaborar o aconselhamento para a compra de uma refeição. Já na Tarefa B esta também se encontra
+subdividida em duas partes e é relativa ao aconselhamento de trajeto de entrega de uma refeição.
 
 
 ## Tarefa A - Aconselhamento para compra de uma refeição <a name = "ta"></a>
