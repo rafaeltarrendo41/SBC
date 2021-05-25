@@ -126,10 +126,10 @@ Nesta parte foram desenvolvidas as funcionalidades de optimização usando o mé
 
 ## Contactos <a name = "contact"></a>
 
-* [Ana Francisca Cunha](kikacunha2010@gmail.com)
-* [Carlos Soares](carlos150007@gmail.com)
-* [Carolina Alves](carolinagoncalvesalves@gmail.com)
-* [Rafael Brito](rafaeltarrendo@gmail.com)
+* [Ana Francisca Cunha](mailto:kikacunha2010@gmail.com)
+* [Carlos Soares](mailto:carlos150007@gmail.com)
+* [Carolina Alves](mailto:carolinagoncalvesalves@gmail.com)
+* [Rafael Brito](mailto:rafaeltarrendo@gmail.com)
 
 
 ## Acknowledgments <a name = "ack"></a>
