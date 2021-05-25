@@ -67,17 +67,19 @@ conhecimento automática, criadas pelo software Weka.
 
 ## Getting started <a name = "getting1"></a>
 
+
 ### Quick-start <a name = "quick1"></a>
 
 #### Start your application ....
   ```run .....
   ```
+  aqui morreu camões
 
 ### Installation  <a name = "install1"></a>
 #### Add SWI-Prolog to the PATH environment variable
 #### Clone the repo
   ```sh
-  git clone https://github.com/xxxxxxxxxxxxxxxxxxxxxxxxx.git
+  git clone https://github.com/rafaeltarrendo41/SBC.git
   ```
 #### Install all the dependecies
   ```sh
