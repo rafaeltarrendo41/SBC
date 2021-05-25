@@ -56,12 +56,13 @@ retorno, o SBC irá retornar uma solução, que contém as refeições
 que melhor respondem às necessidades do utilizador.
 
 ### Parte 2 - Aquisição automática de conhecimento <a name = "ta2"></a>
-XXXXXX
+No que diz respeito à parte 2 da tarefa A, temos como objetivo o aconselhamento da refeição utilizando regras de produção geradas via aquisição de
+conhecimento automática, criadas pelo software Weka.
 
 ### Pré-requisitos <a name = "pre1"></a>
 * [SWI-Prolog 8.2.4](https://www.swi-prolog.org/download/stable)
 * [Weka](https://waikato.github.io/weka-wiki/downloading_weka/)
-* Outros......
+* [Apache NetBeans](https://netbeans.apache.org/)
 
 
 ## Getting started <a name = "getting1"></a>
