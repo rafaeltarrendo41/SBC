@@ -90,17 +90,18 @@ conhecimento automática, criadas pelo software Weka.
 
 
 ## Tarefa B - Aconselhamento de trajeto para entrega de uma refeição <a name = "tb"></a>
-Desenvolver um SBC para um estafeta que usa uma scooter como meio de transporte que trabalha para um sistema de entrega de um restaurante. O SBC deve aconselhar que encomendas o estafeta deve pegar no restaurante e qual o caminho a seguir para proceder às entregas. Optamos por desenvolver xxxx.
+Desenvolver um SBC para um estafeta que usa uma scooter como meio de transporte que trabalha para um sistema de entrega de um restaurante. O SBC deve aconselhar que encomendas o estafeta deve pegar no restaurante e qual o caminho a seguir para proceder às entregas. Optamos por desenvolver uma interface gráfica para ser mais amigável ao utilizador, e é com esta que este irá interagir e obter o resultado final.
 
 ### Parte 1 - Resolução via Procura <a name = "tb1"></a>
-Nesta parte foram desenvolvidas as funcionalidades de procura para o objetivo 1 
+Nesta parte foram desenvolvidas as funcionalidades de procura para o objetivo 1. 
 
-### Parte 2 - Otimização do lucro, tempo ou ambos <a name = "tb2"></a>
-Nesta parte foram desenvolvidas as funcionalidades de optimização usando o método de hillclimbing para o objetivo A (maximizar o lucro), B (minimizar o tempo do percurso) e C (maximizar 0.8*lucro+0.2*(20-tempo)).XXXXXX
+### Parte 2 - Otimização do lucro, tempo ou ambos(Opcional) <a name = "tb2"></a>
+Nesta parte foram desenvolvidas as funcionalidades de optimização usando o método de hillclimbing para o objetivo A (maximizar o lucro), B (minimizar o tempo do percurso) e C (maximizar 0.8*lucro+0.2*(20-tempo)).
 
 
 ### Pré-requisitos <a name = "pre2"></a>
-* [Liste aqui]
+* [SWI-Prolog 8.2.4](https://www.swi-prolog.org/download/stable)
+* [Apache NetBeans](https://netbeans.apache.org/)
 
 ## Getting started <a name = "getting2"></a>
 
@@ -108,7 +109,7 @@ Nesta parte foram desenvolvidas as funcionalidades de optimização usando o mé
 
 #### Clone the repo
   ```sh
-  git clone  https://github.com/xxxxxxxxxxxxxxxxxxxxxxxxx.git
+  git clone  https://github.com/rafaeltarrendo41/SBC.git
   ```
 
 ### Usage <a name = "usage2"></a>
